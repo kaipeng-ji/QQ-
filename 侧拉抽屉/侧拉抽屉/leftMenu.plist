@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>icon</key>
+		<string>aio_search_add_contact_icon</string>
+		<key>name</key>
+		<string>首页</string>
+		<key>vcName</key>
+		<string>centerViewController</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>aio_profile_qzone</string>
+		<key>name</key>
+		<string>激活会员</string>
+		<key>vcName</key>
+		<string>VIPViewController</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>feedback</string>
+		<key>name</key>
+		<string>QQ钱包</string>
+		<key>vcName</key>
+		<string>QQWalletViewController</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>aio_profile_email</string>
+		<key>name</key>
+		<string>个性装扮</string>
+		<key>vcName</key>
+		<string>protentViewController</string>
+	</dict>
+</array>
+</plist>
